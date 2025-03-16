@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/></td>
-    <td>C++ - Menengah 🟢🟢🟢⚪⚪</td>
+    <td>CSS - Menengah 🟢🟢🟢⚪⚪</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
