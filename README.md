@@ -1,5 +1,5 @@
 # 👋 Halo, Aku Ahmad Fajri!
-🕹 Game Developer & Programmer | ⚡️ Web Developer<br>
+🕹 Game Developer | ⚡️ Web Developer<br>
 🗺️ Exploring the World of Programming and Game Development
 
 ---
